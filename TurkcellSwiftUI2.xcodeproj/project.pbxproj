@@ -40,9 +40,17 @@
 		DC0497D32C9DABC9003E7FA5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
+				DCB71A8E2C9DB3B300CAE4FA /* New Group */,
 				DC0497D22C9DABC9003E7FA5 /* TurkcellSwiftUI2.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		DCB71A8E2C9DB3B300CAE4FA /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
